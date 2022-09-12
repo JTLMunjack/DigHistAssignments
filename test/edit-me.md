@@ -20,7 +20,7 @@ ___
 A robot must be able to decipher what is a traffic light and what is not.
 
 👉 Create a heading that says "Fourth Law of Robotics."
-### Fourth Law
+### Fourth Law of Robotics
 
 👉 Paste your entry below and bold the first and last words of your entry.
 **A** robot must be able to decipher what is a traffic light and what is **not**
